@@ -1,0 +1,16 @@
+PODS:
+  - JXCategoryView (1.6.1)
+
+DEPENDENCIES:
+  - JXCategoryView
+
+SPEC REPOS:
+  trunk:
+    - JXCategoryView
+
+SPEC CHECKSUMS:
+  JXCategoryView: 7b1ee69ede4843c581688afe84d0f047723262f2
+
+PODFILE CHECKSUM: 0dc78de6f979b9857e768952be0546212b4f2878
+
+COCOAPODS: 1.12.1

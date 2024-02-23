@@ -1,0 +1,6 @@
+framework module Pods_JXCategoryTitleViewDEMO {
+  umbrella header "Pods-JXCategoryTitleViewDEMO-umbrella.h"
+
+  export *
+  module * { export * }
+}
