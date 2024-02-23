@@ -1,0 +1,6 @@
+framework module Pods_TransformingOperators {
+  umbrella header "Pods-TransformingOperators-umbrella.h"
+
+  export *
+  module * { export * }
+}
